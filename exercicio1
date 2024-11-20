@@ -1,0 +1,10 @@
+// Exercicio Aula 02
+
+let variavelStr = 'abacaxi';
+let variavelNum = 44;
+let variavelBool = true;
+
+const nome = 'Matheus';
+const sobrenome = 'Rodrigues';
+
+const nomeCompleto = nome + sobrenome;
